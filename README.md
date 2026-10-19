@@ -36,12 +36,6 @@ L'obiettivo è la modellazione concettuale, logica e la ristrutturazione di una 
 
 ---
 
-## 📁 Documentazione & File del Progetto
-
-📄 **[Leggi la Documentazione Completa del Progetto (PDF)](docs/Relazione_Basi_di_Dati.pdf)**
-
----
-
 ## 🛠️ Tecnologie & Strumenti
 - **Modellazione:** Diagrammi E-R (Entità-Relazione), Schema Logico Relazionale
 - **Linguaggio DDL/DML:** SQL (MySQL / PostgreSQL)
